@@ -30,3 +30,43 @@ function Download() {
     URL.revokeObjectURL(url);
 
 }
+
+
+      function Home(){
+        document.getElementById("H").style.color = "#28A745 ";
+        document.getElementById("A").style.color = "white";
+        document.getElementById("R").style.color = "white";
+        document.getElementById("P").style.color = "white";
+        document.getElementById("C").style.color = "white";
+      }
+      function About(){
+        document.getElementById("H").style.color = "white";
+        document.getElementById("A").style.color = "#28A745 ";
+        document.getElementById("R").style.color = "white";
+        document.getElementById("P").style.color = "white";
+        document.getElementById("C").style.color = "white";
+      }
+   
+      function Resume(){
+        document.getElementById("H").style.color = "white";
+        document.getElementById("A").style.color = "whitte";
+        document.getElementById("R").style.color = "#28A745 ";
+        document.getElementById("P").style.color = "white";
+        document.getElementById("C").style.color = "white";
+      }
+      function Project(){
+        document.getElementById("H").style.color = "white";
+        document.getElementById("A").style.color = "white";
+        document.getElementById("P").style.color = "#28A745 ";
+        document.getElementById("R").style.color = "white";
+        document.getElementById("C").style.color = "white";
+      }
+
+      function Contact(){
+        document.getElementById("H").style.color = "white";
+        document.getElementById("A").style.color = "white";
+        document.getElementById("R").style.color = "white";
+        document.getElementById("P").style.color = "white";
+        document.getElementById("C").style.color = "#28A745 ";
+      }
+  
