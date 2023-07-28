@@ -18,10 +18,7 @@ ul{
 .main-header{
     display:flex;
     padding:15px 20px;
-    /* background-image:url(/asset/images/background/Nat2.jpg); */
     background-size:cover;
-    /* background-color:#4BA5C7; */
-
 }
 p{
     color:white;
@@ -94,7 +91,7 @@ p{
 .wel-sec{
 
     width:100%;
-    /* background-image: url(/asset/images/background/bg-5.jpg); */
+    background-image: url(/asset/images/background/bg-6.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 
