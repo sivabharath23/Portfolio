@@ -56,7 +56,7 @@ const projects = [
     category: 'Web',
     description: 'Lead-generation websites with contact forms, email submissions, and Google reCAPTCHA integration for spam protection. Built for various business clients.',
     highlights: ['25+ delivered', 'reCAPTCHA integrated', 'SEO optimized', 'Responsive'],
-    stack: ['HTML5', 'CSS3', 'JavaScript', 'Google reCAPTCHA'],
+    stack: ['React.js', 'HTML5', 'CSS3', 'JavaScript', 'Bootstrap', 'Tailwind CSS', 'jQuery', 'Google reCAPTCHA'],
     color: '#7B2FFF',
     icon: '🌐',
     featured: false,
